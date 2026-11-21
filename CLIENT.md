@@ -42,7 +42,8 @@ Status: **Owner** (confirmed by the owner), **Public** (source found), **Unconfi
 
 ## Free
 
-- **Look:** [template or reference]
+- **Look:** custom dark workshop look (graphite and orange)
+- **Motion:** approved custom motion (Lintar asked for heavy motion on 2026-11-21: GSAP + Lenis, loader, split text, pinned horizontal services, marquee, tilt, magnetic buttons, scroll line and gear)
 - **Mockup chosen:** [file] **Notes:** [keep / change]
 - **Images:** [real photos used, generated ones]
 - **Tweaks:**

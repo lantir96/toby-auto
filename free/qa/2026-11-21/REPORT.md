@@ -7,5 +7,5 @@ Checked: loads, HTTP status, console and JS errors, failed requests, horizontal 
 Not checked: how it looks compared with the mockup, motion feel, forms and ordering flows, real Android device. Look at the screenshots.
 
 ## WARN /
-Title: TOBY-AUTO | Servis Mobil di Jetis, Mojokerto · H1: SERVIS MOBIL DI JETIS, MOJOKERTO. · 122 KB
+Title: TOBY-AUTO | Servis Mobil di Jetis, Mojokerto · H1: SERVIS MOBIL DI JETIS, MOJOKERTO. · 179 KB
 - warn robots meta says "noindex, nofollow"
