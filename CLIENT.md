@@ -1,8 +1,8 @@
-# Purnama Auto Service
+# TOBY-AUTO
 
 Last updated: 2026-11-21
 
-DEMO PROJECT: not a signed client. Built on request from Lintar from a Google Maps link. Site is noindex and published on GitHub Pages (public repo `lantir96/purnama-auto`).
+DEMO PROJECT: not a signed client. Built on request from Lintar from a Google Maps link. Site is noindex and published on GitHub Pages (public repo `lantir96/toby-auto`).
 
 The brief and every design decision for this client. Work through `CHECKLIST.md` next to this file.
 
@@ -13,7 +13,7 @@ The brief and every design decision for this client. Work through `CHECKLIST.md`
 - **Owner, and what they care about:** Maps listing says "(HAMIM)", possibly the owner or mechanic. Unconfirmed.
 - **Feel:** Unconfirmed. Proposal: technical, trustworthy, clear.
 - **Language of the site:** Indonesian
-- **Requested site name (Lintar, 2026-11-21):** something like "Servis Mobil Terbaik di Mojokerto, Jawa Timur". "Terbaik" is a superlative claim, so use it as the SEO title only if Lintar accepts it; the brand stays Purnama Auto Service.
+- **Requested site name (Lintar, 2026-11-21):** something like "Servis Mobil Terbaik di Mojokerto, Jawa Timur". "Terbaik" is a superlative claim, so use it as the SEO title only if Lintar accepts it; the brand stays TOBY-AUTO.
 
 ## Setup: facts
 
@@ -21,7 +21,7 @@ Status: **Owner** (confirmed by the owner), **Public** (source found), **Unconfi
 
 | Fact | Value | Source and date | Status |
 |---|---|---|---|
-| Business name | Bengkel Mobil PURNAMA AUTO SERVICE (HAMIM) | Google Maps link from Lintar, 2026-11-21 | Public |
+| Business name | Bengkel Mobil TOBY-AUTO | Google Maps link from Lintar, 2026-11-21 | Public |
 | Address, each branch | Jl. Raya Jetis - Wringinanom, RT.1/RW.6, Pasinan Wetan, Kupang, Kec. Jetis, Kab. Mojokerto, Jawa Timur 61352 | Google Maps link, 2026-11-21 | Public |
 | Phone, each branch | | | |
 | WhatsApp | | | |

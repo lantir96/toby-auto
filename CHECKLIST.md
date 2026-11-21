@@ -1,4 +1,4 @@
-# Checklist: Purnama Auto Service
+# Checklist: TOBY-AUTO
 
 Niche: industrial. Started 2026-11-21.
 
@@ -21,7 +21,7 @@ How this works: do the Setup once, then build **Free** first. When a tier is clo
 - [ ] The area is written in CLIENT.md, so we can check who else nearby uses a look
 - [ ] The feel is written in CLIENT.md: calm, fun, luxury, technical and so on
 
-## Free: folder `purnama-auto/free/`
+## Free: folder `toby-auto/free/`
 
 **Goal:** One clean page that makes the business look real and easy to visit or contact.
 **Built with:** Static one-pager, started from coffee-factory/free. No server.
@@ -89,7 +89,7 @@ The tier is not closed until each one is really there. Includes the earlier tier
 
 - [ ] Decided: continue / stop
 
-## Medium (Rp 15M): folder `purnama-auto/15m/`
+## Medium (Rp 15M): folder `toby-auto/15m/`
 
 _Only if you decided to continue after Free._
 
@@ -177,7 +177,7 @@ The tier is not closed until each one is really there. Includes the earlier tier
 
 - [ ] Decided: continue / stop
 
-## High (Rp 50M): folder `purnama-auto/50m/`
+## High (Rp 50M): folder `toby-auto/50m/`
 
 _Only if you decided to continue after Medium._
 
